@@ -1,0 +1,43 @@
+MMMMMMMM               MMMMMMMM                                                 tttt            iiii                                QQQQQQQQQ                                                                     tttt          
+M:::::::M             M:::::::M                                              ttt:::t           i::::i                             QQ:::::::::QQ                                                                ttt:::t          
+M::::::::M           M::::::::M                                              t:::::t            iiii                            QQ:::::::::::::QQ                                                              t:::::t          
+M:::::::::M         M:::::::::M                                              t:::::t                                           Q:::::::QQQ:::::::Q                                                             t:::::t          
+M::::::::::M       M::::::::::Myyyyyyy           yyyyyyy  ssssssssss   ttttttt:::::ttttttt    iiiiiii     cccccccccccccccc     Q::::::O   Q::::::Quuuuuu    uuuuuu      eeeeeeeeeeee        ssssssssss   ttttttt:::::ttttttt    
+M:::::::::::M     M:::::::::::M y:::::y         y:::::y ss::::::::::s  t:::::::::::::::::t    i:::::i   cc:::::::::::::::c     Q:::::O     Q:::::Qu::::u    u::::u    ee::::::::::::ee    ss::::::::::s  t:::::::::::::::::t    
+M:::::::M::::M   M::::M:::::::M  y:::::y       y:::::yss:::::::::::::s t:::::::::::::::::t     i::::i  c:::::::::::::::::c     Q:::::O     Q:::::Qu::::u    u::::u   e::::::eeeee:::::eess:::::::::::::s t:::::::::::::::::t    
+M::::::M M::::M M::::M M::::::M   y:::::y     y:::::y s::::::ssss:::::stttttt:::::::tttttt     i::::i c:::::::cccccc:::::c     Q:::::O     Q:::::Qu::::u    u::::u  e::::::e     e:::::es::::::ssss:::::stttttt:::::::tttttt    
+M::::::M  M::::M::::M  M::::::M    y:::::y   y:::::y   s:::::s  ssssss       t:::::t           i::::i c::::::c     ccccccc     Q:::::O     Q:::::Qu::::u    u::::u  e:::::::eeeee::::::e s:::::s  ssssss       t:::::t          
+M::::::M   M:::::::M   M::::::M     y:::::y y:::::y      s::::::s            t:::::t           i::::i c:::::c                  Q:::::O     Q:::::Qu::::u    u::::u  e:::::::::::::::::e    s::::::s            t:::::t          
+M::::::M    M:::::M    M::::::M      y:::::y:::::y          s::::::s         t:::::t           i::::i c:::::c                  Q:::::O  QQQQ:::::Qu::::u    u::::u  e::::::eeeeeeeeeee        s::::::s         t:::::t          
+M::::::M     MMMMM     M::::::M       y:::::::::y     ssssss   s:::::s       t:::::t    tttttt i::::i c::::::c     ccccccc     Q::::::O Q::::::::Qu:::::uuuu:::::u  e:::::::e           ssssss   s:::::s       t:::::t    tttttt
+M::::::M               M::::::M        y:::::::y      s:::::ssss::::::s      t::::::tttt:::::ti::::::ic:::::::cccccc:::::c     Q:::::::QQ::::::::Qu:::::::::::::::uue::::::::e          s:::::ssss::::::s      t::::::tttt:::::t
+M::::::M               M::::::M         y:::::y       s::::::::::::::s       tt::::::::::::::ti::::::i c:::::::::::::::::c      QQ::::::::::::::Q  u:::::::::::::::u e::::::::eeeeeeee  s::::::::::::::s       tt::::::::::::::t
+M::::::M               M::::::M        y:::::y         s:::::::::::ss          tt:::::::::::tti::::::i  cc:::::::::::::::c        QQ:::::::::::Q    uu::::::::uu:::u  ee:::::::::::::e   s:::::::::::ss          tt:::::::::::tt
+MMMMMMMM               MMMMMMMM       y:::::y           sssssssssss              ttttttttttt  iiiiiiii    cccccccccccccccc          QQQQQQQQ::::QQ    uuuuuuuu  uuuu    eeeeeeeeeeeeee    sssssssssss              ttttttttttt  
+                                     y:::::y                                                                                                Q:::::Q                                                                             
+                                    y:::::y                                                                                                  QQQQQQ                                                                             
+                                   y:::::y                                                                                                                                                                                      
+                                  y:::::y                                                                                                                                                                                       
+                                 yyyyyyy                                                                                                                                                                                        
+
+Mystic Quest Credits
+
+Lead Developer & Designer:
+    Prosrny
+
+Contributions to Storyline:
+    Prosrny
+
+ASCII Artwork:
+    Prosrny
+
+Game Testing:
+    Prosrny
+
+Soundtrack Composer:
+    Prosrny
+
+Special Thanks:
+    OpenAI for providing amazing technologies that helped with mystic quest
+    The supportive community
+    Friends and family who provided feedback and encouragement
