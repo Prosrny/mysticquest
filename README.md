@@ -26,3 +26,11 @@ Mystic Quest is an adventure RPG game created with Python. Embark on a mystical 
 clone repository:
    ```bash
    git clone https://github.com/your-username/mystic-quest.git
+   Navigate to the project directory:
+Navigate to the project directory:
+
+cd mystic-quest
+
+Run the game:
+
+python mystic_quest.py
