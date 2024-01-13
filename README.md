@@ -1,6 +1,6 @@
 # Mystic Quest
 
-Welcome to Mystic Quest, an adventure RPG game with a mystical storyline, captivating gameplay, and ASCII art visuals.
+Welcome to Mystic Quest, an adventure RPG game with a mystical storyline, captivating gameplay, and ASCII art visuals. All made in python
 
 ## Table of Contents
 
@@ -20,17 +20,8 @@ Mystic Quest is an adventure RPG game created with Python. Embark on a mystical 
 - Save your progress and continue your adventure later
 - Open-source and customizable for your own projects
 
-## Installation
+## Installation (Make Sure You Have Winrar or Windows 11)
 
-1. Clone the repository or go to the realeses tab:
-clone repository:
-   ```bash
-   git clone https://github.com/your-username/mystic-quest.git
-   Navigate to the project directory:
-Navigate to the project directory:
-
-cd mystic-quest
-
-Run the game:
-
-python mystic_quest.py
+1. Go to the releases tab
+2. Click the latest version
+3. Install MysticQuestWindows.rar
