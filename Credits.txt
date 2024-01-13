@@ -34,7 +34,7 @@ ASCII Artwork:
 Game Testing:
     Prosrny
 
-Soundtrack Composer:
+Game Coder
     Prosrny
 
 Special Thanks:
